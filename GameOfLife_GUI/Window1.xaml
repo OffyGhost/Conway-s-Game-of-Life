@@ -1,0 +1,18 @@
+﻿<Window x:Class="GameOfLife_GUI.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Conway’s Game of Life: C# The Unoptimized Edition" Height="510" Width="595" Loaded="Window_Loaded">
+    
+    <StackPanel Height="471" Name="stackPanel1" Width="548">
+        <StackPanel Orientation="Horizontal" >
+            <CheckBox Height="30" Name="checkBox1" Width="70" IsChecked="True">Run</CheckBox>
+            <Button Height="24" Name="buttonUp" Width="226" Click="buttonUp_Click">Increase Speed</Button>
+            <Button Height="24" Name="buttonDown" Width="226" Click="buttonDown_Click">Decrease Speed</Button>
+        </StackPanel>
+        
+        <UniformGrid Height="415" Name="myGrid" Width="415">
+
+        </UniformGrid>
+        
+    </StackPanel>
+</Window>

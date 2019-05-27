@@ -1,0 +1,24 @@
+C:\Users\root\Documents\Visual Studio 2008\Projects\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2008\Projects\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\Window1.baml
+C:\Users\root\Documents\Visual Studio 2008\Projects\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\Window1.g.cs
+C:\Users\root\Documents\Visual Studio 2008\Projects\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\App.g.cs
+C:\Users\root\Documents\Visual Studio 2008\Projects\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\GameOfLife_GUI_MarkupCompile.cache
+C:\Users\root\Documents\Visual Studio 2008\Projects\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\GameOfLife_GUI.g.resources
+C:\Users\root\Documents\Visual Studio 2008\Projects\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\GameOfLife_GUI.Properties.Resources.resources
+C:\Users\root\Documents\Visual Studio 2008\Projects\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\GameOfLife_GUI.csproj.GenerateResource.Cache
+C:\Users\root\Documents\Visual Studio 2008\Projects\GameOfLife_GUI\GameOfLife_GUI\bin\Debug\GameOfLife_GUI.exe
+C:\Users\root\Documents\Visual Studio 2008\Projects\GameOfLife_GUI\GameOfLife_GUI\bin\Debug\GameOfLife_GUI.pdb
+C:\Users\root\Documents\Visual Studio 2008\Projects\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\GameOfLife_GUI.exe
+C:\Users\root\Documents\Visual Studio 2008\Projects\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\GameOfLife_GUI.pdb
+\\it-7\totalshare\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\GameOfLife_GUI.exe
+\\it-7\totalshare\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\GameOfLife_GUI.pdb
+\\it-7\totalshare\GameOfLife_GUI\GameOfLife_GUI\bin\Debug\GameOfLife_GUI.exe
+\\it-7\totalshare\GameOfLife_GUI\GameOfLife_GUI\bin\Debug\GameOfLife_GUI.pdb
+\\it-7\totalshare\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\ResolveAssemblyReference.cache
+\\it-7\totalshare\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\Window1.baml
+\\it-7\totalshare\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\Window1.g.cs
+\\it-7\totalshare\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\App.g.cs
+\\it-7\totalshare\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\GameOfLife_GUI_MarkupCompile.cache
+\\it-7\totalshare\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\GameOfLife_GUI.g.resources
+\\it-7\totalshare\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\GameOfLife_GUI.Properties.Resources.resources
+\\it-7\totalshare\GameOfLife_GUI\GameOfLife_GUI\obj\Debug\GameOfLife_GUI.csproj.GenerateResource.Cache
